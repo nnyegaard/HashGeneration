@@ -1,4 +1,0 @@
-C:\Development\Projects\Opesource\HashGeneration\src\HashGeneration\bin\Debug\netstandard1.6\HashGeneration.deps.json
-C:\Development\Projects\Opesource\HashGeneration\src\HashGeneration\bin\Debug\netstandard1.6\HashGeneration.dll
-C:\Development\Projects\Opesource\HashGeneration\src\HashGeneration\obj\Debug\netstandard1.6\HashGeneration.csprojResolveAssemblyReference.cache
-C:\Development\Projects\Opesource\HashGeneration\src\HashGeneration\obj\Debug\netstandard1.6\HashGeneration.AssemblyInfo.cs
