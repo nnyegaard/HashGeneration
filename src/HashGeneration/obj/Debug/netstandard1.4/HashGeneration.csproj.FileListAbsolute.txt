@@ -1,0 +1,4 @@
+C:\Development\Projects\Opesource\HashTokenGeneration\HashTokenGeneration\HashTokenGeneration\bin\Debug\netstandard1.4\HashGeneration.deps.json
+C:\Development\Projects\Opesource\HashTokenGeneration\HashTokenGeneration\HashTokenGeneration\bin\Debug\netstandard1.4\HashGeneration.dll
+C:\Development\Projects\Opesource\HashTokenGeneration\HashTokenGeneration\HashTokenGeneration\obj\Debug\netstandard1.4\HashGeneration.csprojResolveAssemblyReference.cache
+C:\Development\Projects\Opesource\HashTokenGeneration\HashTokenGeneration\HashTokenGeneration\obj\Debug\netstandard1.4\HashGeneration.AssemblyInfo.cs
