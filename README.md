@@ -1,2 +1,2 @@
 # HashGeneration
-A simple hash generation for .NET Core
+A simple hash generator for .NET Core
